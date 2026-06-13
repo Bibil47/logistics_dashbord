@@ -4,6 +4,7 @@
 
 
 # Logistics Performance Analysis and Demand Forecasting
+<img width="1425" height="782" alt="image" src="https://github.com/user-attachments/assets/fbfd5203-aa59-422c-a8ba-4e7b5401da90" />
 
 ## Project Overview
 
